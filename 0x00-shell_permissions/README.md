@@ -1,1 +1,1 @@
-change of user
+change of ownership
