@@ -1,1 +1,1 @@
-change of ownership
+shell permission
